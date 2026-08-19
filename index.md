@@ -1,8 +1,8 @@
-Joe Harrison
-Data Science Student
+# Joe Harrison
+Data Science Student  
 UNC Charlotte
 ## About Me
-I am currently a junior attending UNCC. I am really into sports data involving all sports and crunching the numbers, as well as movies and why things happen or reasons for things that happen
-Welcome to my Data Science Studio portfolio 
-This website will document my learning and projects throughout the semester
-[gotomyblog](blog.md)
+I am currently a Junior attending UNCC majoring in Data Science, I enjoy sports, watching movies, going traveling, and good food
+Welcome to my Data Science Studio portfolio.
+This website will document my learning and projects throughout the semester.
+
