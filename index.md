@@ -12,4 +12,4 @@ Welcome to my Data Science Studio portfolio — this website documents my learni
 [gotomyblog](blog/blog1.md)
 [📄 Resume](Joseph_Harrison_Full_General_Resume.pdf)   
 [🔗 LinkedIn](https://www.linkedin.com/in/joseph-harrison-22b63236b/)
-
+[Projects](Project.md)
