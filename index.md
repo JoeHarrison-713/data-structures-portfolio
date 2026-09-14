@@ -7,6 +7,6 @@ I am currently a Junior attending UNCC majoring in Data Science, I enjoy sports,
 
 # Links
 [gotomyblog](blog/blog1.md)
-[📄 Resume](Joseph_Harrison_Full_General_Resume.pdf)  
+[📄 Resume](Joseph_Harrison_Full_General_Resume.pdf)   
 [🔗 LinkedIn](https://www.linkedin.com/in/joseph-harrison-22b63236b/)
 
