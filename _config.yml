@@ -2,3 +2,8 @@ title: Data Science Portfolio
 description: Documenting my learning in Data Structures
 theme: jekyll-theme-minimal
 show_downloads: false
+navigation: 
+-title:Home
+ url: /
+ -title: About me
+  url: /about-me
