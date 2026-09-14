@@ -2,6 +2,8 @@
 **Data Science Student** - UNC Charlotte
 
 ## About Me
+I’m currently a Junior majoring in Data Science at UNC Charlotte. I enjoy sports, watching movies, traveling, and good food.  
+Welcome to my Data Science Studio portfolio — this website documents my learning and projects throughout the semester.
 [About Me](/about-me)
 
 
